@@ -1,0 +1,8 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="CubeScripts">
+			<method name="OnGazeEnter"/>
+			<method name="OnGazeExit"/>
+		</type>
+	</assembly>
+</linker>
