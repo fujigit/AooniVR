@@ -1,3 +1,0 @@
-git commit -m "Add remain datas except files whose size exceeds 100 MB"
-
-git push origin master
